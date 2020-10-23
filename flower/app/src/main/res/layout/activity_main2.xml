@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/kf"
+    tools:context=".MainActivity2">
+
+
+    <RelativeLayout
+        android:layout_width="166dp"
+        android:layout_height="160dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="310dp"
+        android:background="@drawable/k2">
+
+        <TextView
+            android:id="@+id/textView177"
+            android:layout_width="wrap_content"
+            android:layout_height="22dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="27dp"
+            android:layout_marginTop="121dp"
+            android:background="#fcf7bb"
+            android:text="حدائق الأزهار"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="87dp"
+            android:layout_height="123dp"
+            android:layout_marginStart="45dp"
+            android:layout_marginTop="-9dp"
+            app:srcCompat="@drawable/tulip" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="166dp"
+        android:layout_height="160dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="213dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="310dp"
+        android:background="@drawable/k2">
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="22dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="67dp"
+            android:layout_marginTop="122dp"
+            android:background="#fcf7bb"
+            android:text="المحلات"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="78dp"
+            android:layout_height="123dp"
+            android:layout_marginStart="45dp"
+            android:layout_marginTop="-9dp"
+            app:srcCompat="@drawable/organic" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="166dp"
+        android:layout_height="160dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="214dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="140dp"
+        android:background="@drawable/k2">
+
+        <TextView
+            android:id="@+id/textView158"
+            android:layout_width="wrap_content"
+            android:layout_height="22dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="27dp"
+            android:layout_marginTop="121dp"
+            android:background="#fcf7bb"
+            android:text="معلومات عن الأزهار"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="78dp"
+            android:layout_height="123dp"
+            android:layout_marginStart="45dp"
+            android:layout_marginTop="-9dp"
+            app:srcCompat="@drawable/gardening" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="166dp"
+        android:layout_height="160dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="140dp"
+        android:background="@drawable/k2">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="22dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="54dp"
+            android:layout_marginTop="125dp"
+            android:background="#fcf7bb"
+            android:text="كيفية الزراعة"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="87dp"
+            android:layout_height="123dp"
+            android:layout_marginStart="45dp"
+            android:layout_marginTop="-9dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/replant" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
