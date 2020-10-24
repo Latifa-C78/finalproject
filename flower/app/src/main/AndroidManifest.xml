@@ -13,8 +13,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivitys"></activity>
-        <activity android:name=".MainActivity4" />
+        <activity android:name=".MainActivity4"></activity>
+        <activity android:name=".MainActivitys" />
         <activity android:name=".MainActivityg2" />
         <activity android:name=".MapsActivity" />
 

@@ -136,5 +136,11 @@
 
     </RelativeLayout>
 
-
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="590dp"
+        app:srcCompat="@drawable/fff" />
 </RelativeLayout>
