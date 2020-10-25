@@ -54,15 +54,6 @@ Button h;
         }
     }
 
-    //public void kuwait(View view) {
-      //  Intent i= null, chooser = null;
-     // if (view.getId()==R.id.textView17) {
-        //  i = new Intent(Intent.ACTION_VIEW);
-         // i.setData(Uri.parse("geo:19.078,72.8777"aw));
-          //chooser=Intent.createChooser(i,"japan");
-         // startActivity(chooser);
+   
       }
-  //
 
-
-//}

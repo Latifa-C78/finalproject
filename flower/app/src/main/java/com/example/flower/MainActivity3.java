@@ -19,9 +19,9 @@ public class MainActivity3 extends AppCompatActivity {
 
         ArrayList<gardensc> gl = new ArrayList<>();
 
-        gardensc g1 =new gardensc("هيتاتشي,إيباراكي في اليابان",R.drawable.hitachi,"googl maps");
-        gardensc g2 =new gardensc("غابة هالي في بلجيكا",R.drawable.g2,"googl maps");
-        gardensc g3 =new gardensc("حقول الورود في كارلسباد في كاليفورنيا",R.drawable.g3,"googl maps");
+        gardensc g1 =new gardensc("هيتاتشي,إيباراكي في اليابان",R.drawable.hitachi,"google maps");
+        gardensc g2 =new gardensc("غابة هالي في بلجيكا",R.drawable.g2,"google maps");
+        gardensc g3 =new gardensc("حقول الورود في كارلسباد في كاليفورنيا",R.drawable.g3,"google maps");
 
 
         gl.add(g1);
